@@ -1,0 +1,17 @@
+{
+  "name": "autoauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {}
+}
