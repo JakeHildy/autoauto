@@ -21,6 +21,8 @@ describe('Example Test', () => {
       cy.visit('http://localhost:7860/');
       cy.url().should('eq', 'http://localhost:7860/');
 
+      //test commit
+
       // Move to Settings Tab
       setFileOutputPath(fileOutputPath)
       setGridOutputPath(gridOutputPath)
